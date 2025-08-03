@@ -7,12 +7,6 @@ A simple front-end clone of Netflix's homepage built with **HTML** and **CSS**.
 
 ---
 
-## 📸 Preview
-
-![Logo](public/images/logo.png)
-
----
-
 ## ✨ Features
 - Clean and modern Netflix-style layout
 - Responsive homepage design
