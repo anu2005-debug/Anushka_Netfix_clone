@@ -9,7 +9,7 @@ A simple front-end clone of Netflix's homepage built with **HTML** and **CSS**.
 
 ## 📸 Preview
 
-("public/images/logo.png")
+![Logo](public/images/logo.png)
 
 ---
 
