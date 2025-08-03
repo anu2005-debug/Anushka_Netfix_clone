@@ -1,13 +1,33 @@
-# 🎬 Netflix Clone
+# Netflix Clone
 
-A responsive front-end **Netflix Clone** built using **HTML** and **CSS**. This project mimics the design and layout of the Netflix landing page with a focus on UI design and responsive layout.
+A simple front-end clone of Netflix's homepage built with **HTML** and **CSS**.
 
 ## 🚀 Live Demo
-
-🌐 [Click here to view the website](https://anu2005-debug.github.io/Anushka_Netfix_clone/)
+[Click here to view the live site](https://anu2005-debug.github.io/Anushka_Netfix_clone/)
 
 ---
 
-## 📁 Project Structure
+## 📸 Preview
+![Netflix Clone Preview](./images/netflix_preview.png)
 
+> Replace `netflix_preview.png` with your actual screenshot image placed in the `images` folder.
+
+---
+
+## ✨ Features
+- Clean and modern Netflix-style layout
+- Responsive homepage design
+- Top navigation bar with Netflix branding
+- Hero section with background image and CTA
+- Organized content sections mimicking Netflix's interface
+
+---
+
+## 🛠️ Built With
+- **HTML5**
+- **CSS3**
+
+---
+
+## 📂 Project Structure
 
